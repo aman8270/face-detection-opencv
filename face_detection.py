@@ -33,3 +33,4 @@ while True:
 
 cap.release()
 cv2.destroyAllWindows()
+#some minor fixes
